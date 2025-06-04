@@ -1,0 +1,35 @@
+baseURL: 'https://example.org/'
+languageCode: 'ru-ru'
+title: Потребительский Кооператив «Доверие»
+theme: universal
+clients:
+
+params:
+  style: turquoise
+
+  clients:
+    enable: true
+    title: Наши партнеры
+    subtitle: 
+
+  carouselHomepage:
+    enable: true
+    auto_play: true
+    slide_speed: 2000
+    pagination_speed: 1000
+
+  logo: img/logo.png
+  logo_small: img/logo-small.png
+  disabled_logo: false
+  logo_text: ПК «Доверие»
+
+  about_us: Потребительский  кооператив "Доверие" - это кооператив 
+            ориентированный на реализацию социально-значимых программ, с целью удовлетворения потребностей пайщиков и равномерного повышения общего уровня благосостояния общества в целом. Это сообщество людей, объединённых намерением улучшения качества жизни во всех смыслах, как участников кооператива, так и общества в целом, через реализацию проектов разной направленности.
+
+menu:
+  main:
+    - name: Домашняя
+      identifier: menu.home
+      url: /
+      weight: 1
+

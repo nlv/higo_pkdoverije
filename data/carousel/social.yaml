@@ -1,0 +1,10 @@
+weight: 4
+title: "Социальная ориентированность"
+description: >
+  <ul class="list-style-none">
+    <li>реализация социально-значимых программ</li>
+    <li>удовлетворение потребностей пайщиков</li>
+    <li>равномерное повышение благосостояния общества в целом</li>
+  </ul>
+image: "img/carousel/example2.png"
+href: "https://devcows.github.io/hugo-universal-theme/"
