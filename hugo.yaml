@@ -32,4 +32,8 @@ menu:
       identifier: menu.home
       url: /
       weight: 1
+    - name: Целевые потребительские программы
+      identifier: menu.cpp
+      url: /cpp
+      weight: 2
 
