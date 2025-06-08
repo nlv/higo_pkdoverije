@@ -34,6 +34,10 @@ menu:
       weight: 1
     - name: Целевые потребительские программы
       identifier: menu.cpp
-      url: /cpp
+      url: /cpp/
       weight: 2
+    - name: ЧаВо
+      identifier: menu.faq
+      url: /faq/
+      weight: 6
 
