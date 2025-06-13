@@ -1,0 +1,117 @@
+- id: home
+  translation: "Главная"
+
+- id: templateBy
+  translation: "Шаблон создан"
+
+- id: portedBy
+  translation: "Портирован на Hugo"
+
+- id: contactGoTo
+  translation: "На контактную страницу"
+
+- id: contactAddrTitle
+  translation: "Адрес"
+
+- id: contactTitle
+  translation: "Контакт"
+
+- id: contactForm
+  translation: "Контактная форма"
+
+- id: contactName
+  translation: "Имя"
+
+- id: contactMail
+  translation: "Эл. почта"
+
+- id: contactMessage
+  translation: "Тест сообщения"
+
+- id: contactSend
+  translation: "Отправить"
+
+- id: navHome
+  translation: "на главную страницу"
+
+- id: navToggle
+  translation: "Переключить навигацию"
+
+- id: categoriesTitle
+  translation: "Категории"
+
+- id: searchTitle
+  translation: "Поиск"
+
+- id: tagsTitle
+  translation: "Теги"
+
+- id: continueReading
+  translation: "Читать"
+
+- id: readMore
+  translation: "Читать"
+
+- id: authorBy
+  translation: "Автор"
+
+- id: recentPosts
+  translation: "Недавние публикации"
+
+- id: aboutUs
+  translation: "О нас"
+
+- id: newer
+  translation: "Вперед"
+
+- id: older
+  translation: "Назад"
+
+- id: publishedOn
+  translation: "Опубликовано на"
+
+- id: 404Error
+  translation: "Ошибка 404: Страница не найдена"
+
+- id: 404Message
+  translation: "Страница больше недоступна"
+
+- id: 404NavHome
+  translation: "На главную"
+
+- id: January
+  translation: Январь
+
+- id: February
+  translation: Февраль
+
+- id: March
+  translation: Март
+
+- id: April
+  translation: Апрель
+
+- id: May
+  translation: Май
+
+- id: June
+  translation: Июнь
+
+- id: July
+  translation: Июль
+
+- id: August
+  translation: Август
+
+- id: September
+  translation: Сентябрь
+
+- id: October
+  translation: Октябрь
+
+- id: November
+  translation: Ноябрь
+
+- id: December
+  translation: Декабрь
+

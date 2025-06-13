@@ -1,0 +1,16 @@
+{{ $id := .Get "id" | default (.Get 0) }}
+{{ $playlistid := .Get "playlistid" | default "" }}
+{{ $start := .Get "start" | default 0 }}
+{{ $title := .Get "title" | default "Play Video" }}
+{{ $autoload := .Get "autoload" | default "false" }}
+
+<iframe width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/ZCBmG0H27Gc?si=zXKeU8XB_g8N3CkN" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+               picture-in-picture; web-share" 
+        referrerpolicy="strict-origin-when-cross-origin" 
+        allowfullscreen>
+</iframe>
