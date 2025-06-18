@@ -11,6 +11,10 @@ ru:
 params:
   style: turquoise
 
+  topbar: 
+    enable: true
+    text: ✉️ doveriyepk@yandex.ru ☎️ +7(960)164-49-49
+
   features:
     enable: true
 
@@ -48,4 +52,17 @@ menu:
       identifier: menu.faq
       url: /faq/
       weight: 6
+  topbar:
+    - name: Youtube
+      weight: 1
+      url: https://www.youtube.com/@pk_radio
+      pre: "<i class='fa-brands fa-2x fa-square-youtube'></i>"
+    - name: Telegram
+      weight: 2
+      url: https://t.me/+y72-yJaA7NE4YmNi
+      pre: "<i class='fa-brands fa-2x fa-telegram'></i>"
+    - name: VK
+      weight: 3
+      url: https://vk.com/public_dvr
+      pre: "<i class='fa-brands fa-2x fa-vk'></i>"
 
