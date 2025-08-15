@@ -11,3 +11,5 @@ hugo.linux
 node_modules
 dist
 tmp
+
+pkdoverije.code-workspace
